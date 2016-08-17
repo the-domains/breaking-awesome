@@ -1,0 +1,14 @@
+layout_spectrum: 0.3192177
+color:
+  saturation: 0.1627282
+  brandStrength: 0.4893954
+  lightness: 0.5220674
+  rhythmicContrast: 0.5204082
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+typography_spectrum: 0.3388273
+name: Breaking Awesome
