@@ -2,7 +2,7 @@ name: Breaking Awesome
 favicon: null
 layout_spectrum: 0.75286
 typography_spectrum: 0.88394
-title: Breaking Awesome
+title: + Breaking Awesome +
 cta:
   domain: null
   bucket: null
