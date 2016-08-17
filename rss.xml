@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Breaking Awesome :)]]></title>
-        <description><![CDATA[Breaking Awesome :)]]></description>
+        <title><![CDATA[Breaking Awesome]]></title>
+        <description><![CDATA[Breaking Awesome]]></description>
         <link>https://thegrid.ai/breaking-awesome/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 19:56:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2016 20:16:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/breaking-awesome/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/45edec51-1b31-4fdf-9ef1-fee96c6d1417.jpg">]]></description>
             <link>https://thegrid.ai/breaking-awesome/b35792e8-8dcf-4ee6-a784-a5ac847a1d7d/index.html</link>
             <guid isPermaLink="false">b35792e8-8dcf-4ee6-a784-a5ac847a1d7d</guid>
-            <pubDate>Wed, 17 Aug 2016 19:56:35 GMT</pubDate>
+            <pubDate>Wed, 17 Aug 2016 20:16:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
