@@ -4,8 +4,15 @@
         <description><![CDATA[+ Breaking Awesome +]]></description>
         <link>https://thegrid.ai/breaking-awesome/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 23:45:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 01:14:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/breaking-awesome/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[GIS DAY 2015]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc13b64d-713f-4369-a28b-15dc1c633090.jpg">]]></description>
+            <link>https://thegrid.ai/breaking-awesome/gis-day-2015/index.html</link>
+            <guid isPermaLink="false">bfed27d5-83a6-4ba3-8714-74e79d6d2c32</guid>
+            <pubDate>Thu, 18 Aug 2016 01:14:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[FIBER ENTERPRISE]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/101ef47d-1ea6-43e1-a627-ade928f600da.jpg">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/breaking-awesome/seedlab/index.html</link>
             <guid isPermaLink="false">67c10368-fe9d-4d65-8cc0-8bfb1f1f615f</guid>
             <pubDate>Wed, 17 Aug 2016 23:43:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GIS DAY 2015]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc13b64d-713f-4369-a28b-15dc1c633090.jpg">]]></description>
-            <link>https://thegrid.ai/breaking-awesome/gis-day-2015/index.html</link>
-            <guid isPermaLink="false">bfed27d5-83a6-4ba3-8714-74e79d6d2c32</guid>
-            <pubDate>Wed, 17 Aug 2016 23:41:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
