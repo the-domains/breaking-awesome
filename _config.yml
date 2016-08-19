@@ -1,6 +1,6 @@
 name: Breaking Awesome
 favicon: null
-layout_spectrum: 0.76157
+layout_spectrum: 1
 typography_spectrum: 0.253
 title: + Breaking Awesome +
 cta:
@@ -23,7 +23,7 @@ color:
     - '#292679'
     - '#52578b'
   brandStrength: 0.25
-  lightness: 0.75
+  lightness: 0
   saturation: 0
   rhythmicContrast: 0.75
 purpose: []
