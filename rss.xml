@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[+ Breaking Awesome +]]></title>
-        <description><![CDATA[+ Breaking Awesome +]]></description>
+        <title><![CDATA[Breaking Awesome]]></title>
+        <description><![CDATA[Breaking Awesome]]></description>
         <link>https://thegrid.ai/breaking-awesome/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Aug 2016 20:40:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 20:54:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/breaking-awesome/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[SEEDLAB]]></title>
@@ -15,17 +15,24 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/45edec51-1b31-4fdf-9ef1-fee96c6d1417.jpg">]]></description>
+            <link>https://thegrid.ai/breaking-awesome/b35792e8-8dcf-4ee6-a784-a5ac847a1d7d/index.html</link>
+            <guid isPermaLink="false">b35792e8-8dcf-4ee6-a784-a5ac847a1d7d</guid>
+            <pubDate>Fri, 19 Aug 2016 20:54:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1dae949c-d30c-4cb5-9707-ea01741b9594.jpg">]]></description>
+            <link>https://thegrid.ai/breaking-awesome/d44b8e7b-38f7-4a32-af7c-8d0bef18ff20/index.html</link>
+            <guid isPermaLink="false">d44b8e7b-38f7-4a32-af7c-8d0bef18ff20</guid>
+            <pubDate>Fri, 19 Aug 2016 20:45:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8eeee357-90d0-48bf-8a78-d701e606ede7.jpg">]]></description>
             <link>https://thegrid.ai/breaking-awesome/breaking-awesome/index.html</link>
             <guid isPermaLink="false">a9648baa-9ab3-442a-8f7d-73ba8f916172</guid>
             <pubDate>Thu, 18 Aug 2016 02:13:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/45edec51-1b31-4fdf-9ef1-fee96c6d1417.jpg">]]></description>
-            <link>https://thegrid.ai/breaking-awesome/b35792e8-8dcf-4ee6-a784-a5ac847a1d7d/index.html</link>
-            <guid isPermaLink="false">b35792e8-8dcf-4ee6-a784-a5ac847a1d7d</guid>
-            <pubDate>Wed, 17 Aug 2016 20:16:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
